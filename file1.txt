@@ -1,0 +1,6 @@
+Helu
+This is file 1
+I added 1 line
+
+I added another line with an escape sequence
+
