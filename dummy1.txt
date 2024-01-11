@@ -4,3 +4,6 @@ present in `feature1` branch
 
 -- change made in dummy1.txt
 
+
+
+--change made to see stash working
